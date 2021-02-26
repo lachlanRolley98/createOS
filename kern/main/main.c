@@ -136,8 +136,8 @@ boot(void)
 
 	{ 
 		/* remove this section of code to fix ASST0 */
-		char *foo = NULL; 	/* create a NULL pointer */
-		* foo = 'x'; 		/* attempt to access it */
+		//char *foo = NULL; 	/* create a NULL pointer */
+		//* foo = 'x'; 		/* attempt to access it */
 	}
 	
 	/*
